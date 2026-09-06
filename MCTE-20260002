@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Certificate Verification</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="text-align:center; font-family:Arial; padding-top:50px; background:#f9f9f9;">
+  <div style="background:white; padding:30px; max-width:500px; margin:auto; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+    <h1 style="color:#004aad;">Multiplegate Certificate</h1>
+    <p style="font-size:22px; color:green; font-weight:bold;">This certificate is VALID ✅</p>
+    <hr>
+    <p><b>Student Name:</b> OWADELE SAHEED OWADARE</p>
+    <p><b>Certificate ID:</b> MTCE-20260002</p>
+  </div>
+</body>
+</html>
+
+
